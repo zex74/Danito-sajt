@@ -16,13 +16,13 @@ export const ProductData = [
     video: veka70Video,
     imgVideo: "https://www.drutex.eu/media/_upload/produkty/iglo_light/video/iglo_light.mp4",
     optionHeaders: {
-      first: "VEKA 70/OPIS",
-      second: "VEKA 70/PREDNOSTI",
-      third: "VEKA 70/DEKORI",
+      first: "OPIS",
+      second: "PREDNOSTI",
+      third: "VEKA DEKORI",
     },
     options: {
       firstOption: [
-        "Šestokomorni štok sa petokomornim krilom obezbeđuju optimalnu termičku izolaciju,što omogućava značajnu uštedu energije pri grejanju i hlađenju.",
+        "Petokomorni profil obezbeđuje optimalnu termičku izolaciju,što omogućava značajnu uštedu energije pri grejanju i hlađenju.",
         " Sistem specijalizovan za upotrebu u stambenim i poslovnim objektima.",
         "Vrhunski kvalitet profila debljine 3 mm.",
         "Široka paleta boja dekora profila jednostranog i dvostranog dekora omogućava svaki dizajn enterijera.",
@@ -65,13 +65,13 @@ export const ProductData = [
     video: veka82Video,
     imgVideo: "https://www.drutex.eu/media/_upload/produkty/IGLO_ENERGY/video/iglo_energy.mp4",
     optionHeaders: {
-      first: "VEKA 82/OPIS ",
-      second: "VEKA 82/PREDNOSTI",
-      third: "VEKA 82/DEKORI",
+      first: "OPIS ",
+      second: "PREDNOSTI",
+      third: "DEKORI",
     },
     options: {
       firstOption: [
-        "Sedmokomorni štok, šestokomorno krilo, sa čeličnim ojačanjima, sa tri dihtung gume.",
+        "Sedmokomorni profil sa čeličnim ojačanjima, sa tri dihtung gume.",
         "Energetska efikasnost prve klase: prozori za kuće sa niskom potrošnjom energije kao i za pasivne kuće.",
         "Vrhunski kvalitet profila debljine 3 mm.",
         "Široka paleta boja dekora profila jednostranog i dvostranog dekora omogućava svaki dizajn enterijera.",
@@ -116,7 +116,7 @@ export const ProductData = [
     imgVideo: "https://www.drutex.eu/media/_upload/produkty/DUOLINE/video/duoline.mp4",
     options: {
       firstOption: [
-        "Šestokomorni štok sa petokomornim krilom obezbeđuju optimalnu termičku izolaciju,što omogućava značajnu uštedu energije pri grejanju i hlađenju.",
+        "Sedmokomorni profil obezbeđuje optimalnu termičku izolaciju,što omogućava značajnu uštedu energije pri grejanju i hlađenju.",
         " Sistem specijalizovan za upotrebu u stambenim i poslovnim objektima.",
         "Vrhunski kvalitet profila debljine 3 mm.",
         "Široka paleta boja dekora profila jednostranog i dvostranog dekora omogućava svaki dizajn enterijera.",
@@ -155,7 +155,7 @@ export const ProductData = [
     imgVideo: "https://www.drutex.eu/media/_upload/produkty/mb-45/video-okno/okno_mb_45.mp4",
     options: {
       firstOption: [
-        "Sedmokomorni štok, šestokomorno krilo, sa čeličnim ojačanjima, sa tri dihtung gume.",
+        "Petokomorni profil, sa čeličnim ojačanjima, sa tri dihtung gume.",
         "Energetska efikasnost prve klase: prozori za kuće sa niskom potrošnjom energije kao i za pasivne kuće.",
         "Vrhunski kvalitet profila debljine 3 mm.",
         "Široka paleta boja dekora profila jednostranog i dvostranog dekora omogućava svaki dizajn enterijera.",
@@ -200,7 +200,7 @@ export const ProductData = [
     imgVideo: "https://www.drutex.eu/media/_upload/produkty/mb-70/video-okno/okno_mb_70.mp4",
     options: {
       firstOption: [
-        "Sedmokomorni štok, šestokomorno krilo, sa čeličnim ojačanjima, sa tri dihtung gume.",
+        "Sedmokomorni profil, sa čeličnim ojačanjima, sa tri dihtung gume.",
         "Energetska efikasnost prve klase: prozori za kuće sa niskom potrošnjom energije kao i za pasivne kuće.",
         "Vrhunski kvalitet profila debljine 3 mm.",
         "Široka paleta boja dekora profila jednostranog i dvostranog dekora omogućava svaki dizajn enterijera.",
